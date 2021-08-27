@@ -1,5 +1,4 @@
 # Download Synapse X for Free
-<title> Download Synapse X for Free </title>
 >  **[DOWNLOAD FOR FREE HERE](https://synapse-x.org/)** < <
 
 A .dll file is a type of file that contains the code of a computer, which a program executes for performing several functions. And a .dll injection is where a code is being forced to operate in the place of another code. A third-party developer usually writes the injected code here, and the reason behind its creation is for malicious intent. It isn't something that a software program originally intends to do, and so it can bring harm to your computer.
